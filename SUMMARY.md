@@ -1,0 +1,17 @@
+# Summary
+
+- [首页](README.md)
+- [基础概念](01-foundations/README.md)
+  - [什么是 AI](01-foundations/what-is-ai.md)
+  - [机器学习、深度学习与神经网络](01-foundations/ml-dl-nn.md)
+  - [大语言模型 LLM](01-foundations/llm.md)
+- [核心方法](02-patterns/README.md)
+  - [Prompt Engineering](02-patterns/prompt-engineering.md)
+  - [RAG](02-patterns/rag.md)
+  - [Agent](02-patterns/agent.md)
+  - [Fine-tuning](02-patterns/fine-tuning.md)
+- [落地与部署](03-deployment/README.md)
+  - [模型选择](03-deployment/model-selection.md)
+  - [部署方式](03-deployment/deployment-options.md)
+  - [评估与安全](03-deployment/evaluation-and-safety.md)
+- [术语表](glossary.md)
