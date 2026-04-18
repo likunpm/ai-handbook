@@ -13,6 +13,7 @@
 - [第四章：安全与治理](04-safety/README.md)
 - [第五章：Agent 全景](05-agent-landscape/README.md)
 - [第六章：动手做 Agent](06-agent-practice/README.md)
+- [第七章：大模型时代的商业化](07-commercialization/README.md)
 
 ---
 
