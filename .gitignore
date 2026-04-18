@@ -13,7 +13,6 @@ SUMMARY.md
 glossary.md
 
 # 章节内容（本地写作用，不上传）
-00-intro/
 01-evaluation/
 02-llm-training/
 03-llm-inference/
@@ -35,3 +34,9 @@ glossary.md
 
 # 公众号文章草稿
 wechat-launch-article.md
+
+# 脚本与生成文件
+gen_toc_excel.py
+*.xlsx
+.DS_Store
+参考信息/
