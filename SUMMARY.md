@@ -1,7 +1,6 @@
 # Summary
 
-- [首页](README.md)
-- [前言](preface.md)
+- [首页 & 前言](README.md)
 - [目录](TABLE_OF_CONTENTS.md)
 
 ---
