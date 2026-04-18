@@ -1,0 +1,37 @@
+# 网页
+index.html
+
+# 旧版目录
+TABLE_OF_CONTENTS.md
+TABLE_OF_CONTENTS_v2.md
+TABLE_OF_CONTENTS_v3.md
+TABLE_OF_CONTENTS_v4.md
+TABLE_OF_CONTENTS_v5.md
+
+# gitbook 配置
+SUMMARY.md
+glossary.md
+
+# 章节内容（本地写作用，不上传）
+00-intro/
+01-evaluation/
+02-llm-training/
+03-llm-inference/
+04-safety/
+05-agent-landscape/
+06-agent-practice/
+06-aigc/
+07-agent-practice/
+07-commercialization/
+08-commercialization/
+
+# PDF 文件
+*.pdf
+
+# 图片资源（jd.jpg 除外，README 展示用）
+*.jpeg
+*.png
+*.gif
+
+# 公众号文章草稿
+wechat-launch-article.md
