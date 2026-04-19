@@ -24,7 +24,15 @@ glossary.md
 07-commercialization/
 08-commercialization/
 
-# PDF 文件
+# 00-intro 草稿章节（仅01已发布，其余本地写作中）
+00-intro/02-*.md
+00-intro/03-*.md
+00-intro/04-*.md
+00-intro/05-*.md
+00-intro/README.md
+
+# LaTeX 源文件与编译产物（本地排版用）
+*.tex
 *.pdf
 
 # 图片资源（jd.jpg 除外，README 展示用）
