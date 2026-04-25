@@ -9,7 +9,6 @@ TABLE_OF_CONTENTS_v4.md
 TABLE_OF_CONTENTS_v5.md
 
 # gitbook 配置
-SUMMARY.md
 glossary.md
 
 # 章节内容（本地写作用，不上传）
@@ -24,8 +23,7 @@ glossary.md
 07-commercialization/
 08-commercialization/
 
-# 00-intro 草稿章节（仅01已发布，其余本地写作中）
-00-intro/02-*.md
+# 00-intro 草稿章节（仅01、02已发布，其余本地写作中）
 00-intro/03-*.md
 00-intro/04-*.md
 00-intro/05-*.md
