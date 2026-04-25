@@ -23,11 +23,13 @@ glossary.md
 07-commercialization/
 08-commercialization/
 
-# 00-intro 草稿章节（仅01、02已发布，其余本地写作中）
+# 00-intro 草稿章节（仅01、02、03已发布，其余本地写作中）
 00-intro/03-*.md
 00-intro/04-*.md
 00-intro/05-*.md
 00-intro/README.md
+# 例外：已发布章节的 Markdown 正文
+!00-intro/03-产品Agent化.md
 
 # LaTeX 源文件与编译产物（本地排版用）
 *.tex
@@ -35,11 +37,14 @@ glossary.md
 # 例外：已发布章节的 PDF 供读者下载
 !00-intro/01-信息革命终局.pdf
 !00-intro/02-模型即产品.pdf
+!00-intro/03-产品Agent化.pdf
 
 # 图片资源（jd.jpg 除外，README 展示用）
 *.jpeg
 *.png
 *.gif
+# 例外：已发布章节正文中引用的插图
+!00-intro/qq-ai-chat-assistant.png
 
 # 公众号文章草稿
 wechat-launch-article.md
