@@ -32,6 +32,9 @@ glossary.md
 # LaTeX 源文件与编译产物（本地排版用）
 *.tex
 *.pdf
+# 例外：已发布章节的 PDF 供读者下载
+!00-intro/01-信息革命终局.pdf
+!00-intro/02-模型即产品.pdf
 
 # 图片资源（jd.jpg 除外，README 展示用）
 *.jpeg
