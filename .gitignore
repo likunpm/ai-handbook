@@ -23,13 +23,18 @@ glossary.md
 07-commercialization/
 08-commercialization/
 
-# 00-intro 草稿章节（仅01、02、03已发布，其余本地写作中）
+# 00-intro 草稿章节（已发布的章节通过下方例外规则放行）
 00-intro/03-*.md
 00-intro/04-*.md
 00-intro/05-*.md
-00-intro/README.md
 # 例外：已发布章节的 Markdown 正文
+!00-intro/README.md
 !00-intro/03-产品Agent化.md
+!00-intro/04-AI-PM能力模型.md
+!00-intro/05-AI-PM工具箱.md
+
+# 写作草稿源文件（Word 原稿，本地写作用）
+*.docx
 
 # LaTeX 源文件与编译产物（本地排版用）
 *.tex
@@ -38,6 +43,8 @@ glossary.md
 !00-intro/01-信息革命终局.pdf
 !00-intro/02-模型即产品.pdf
 !00-intro/03-产品Agent化.pdf
+!00-intro/04-AI-PM能力模型.pdf
+!00-intro/05-AI-PM工具箱.pdf
 
 # 图片资源（jd.jpg 除外，README 展示用）
 *.jpeg
@@ -48,6 +55,7 @@ glossary.md
 
 # 公众号文章草稿
 wechat-launch-article.md
+00-intro/wechat-article.md
 
 # 脚本与生成文件
 gen_toc_excel.py
