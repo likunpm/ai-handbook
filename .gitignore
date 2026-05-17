@@ -12,7 +12,6 @@ TABLE_OF_CONTENTS_v5.md
 glossary.md
 
 # 章节内容（本地写作用，不上传）
-01-evaluation/
 02-llm-training/
 03-llm-inference/
 04-safety/
@@ -33,6 +32,12 @@ glossary.md
 !00-intro/04-AI-PM能力模型.md
 !00-intro/05-AI-PM工具箱.md
 
+# 01-evaluation 草稿章节（已发布的通过下方例外放行）
+01-evaluation/*
+# 例外：已发布章节的 Markdown 正文
+!01-evaluation/README.md
+!01-evaluation/01-评测即需求.md
+
 # 写作草稿源文件（Word 原稿，本地写作用）
 *.docx
 
@@ -45,6 +50,7 @@ glossary.md
 !00-intro/03-产品Agent化.pdf
 !00-intro/04-AI-PM能力模型.pdf
 !00-intro/05-AI-PM工具箱.pdf
+!01-evaluation/01-评测即需求-v2.pdf
 
 # 图片资源（jd.jpg 除外，README 展示用）
 *.jpeg

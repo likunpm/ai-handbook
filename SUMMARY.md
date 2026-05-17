@@ -12,6 +12,7 @@
   - [4. AI PM 的能力模型：一个有战斗力的 AI PM 长什么样](00-intro/04-AI-PM能力模型.md)
   - [5. AI PM 的工具箱：以产出倒逼工具，让 AI 把你变成超级人类](00-intro/05-AI-PM工具箱.md)
 - [第一章：先学会衡量——评测体系的建立](01-evaluation/README.md)
+  - [1. 评测即需求，评测即产品](01-evaluation/01-评测即需求.md)
 - [第二章：理解大模型（上）——它是怎么学会的](02-llm-training/README.md)
 - [第三章：理解大模型（下）——它是怎么工作的](03-llm-inference/README.md)
 - [第四章：安全与治理](04-safety/README.md)
